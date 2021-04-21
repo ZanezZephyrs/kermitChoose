@@ -1,0 +1,19 @@
+.Selector--wrap{
+    span{
+        display:block;
+        margin:15px;
+        font-size: 2.5rem;
+    }
+
+    input{
+        width: 100px;
+        margin:auto;
+        text-align: end;
+        font-size: 2rem;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        border:1px solid greenyellow;
+        box-shadow: 5px 5px rgba(99, 208, 99, 0.3);
+    }
+
+}

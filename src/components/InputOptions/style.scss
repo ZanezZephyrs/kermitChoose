@@ -1,0 +1,27 @@
+
+
+.InputOptions--wrap{
+    display: flex;
+    flex-direction: row;
+    flex:0;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.InputOptions--segment{
+    span{
+        margin-right: 10px;
+        font-size: 1.2rem;
+    }
+    input {
+        width: 30vw;
+        text-align: start;
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+        margin-right: 20px;
+        border:1px solid greenyellow;
+        box-shadow: 5px 5px rgba(99, 208, 99, 0.3);
+    }
+}

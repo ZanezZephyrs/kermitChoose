@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: rgba(77, 223, 124, 0.5);
+  min-height: 100vh;
+  padding:30px
+}
+
+.ask--kermit{
+  display: block;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+button{
+  padding:10px;
+  background-color: rgb(116, 217, 240);
+  border-radius: 20px;
+  box-shadow: 5px 5px rgba(77, 223, 124, 0.7);
+  font-size:2rem;
+  margin-top: 20px;
+}
